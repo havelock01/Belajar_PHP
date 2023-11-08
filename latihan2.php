@@ -19,6 +19,11 @@ if ($y < 20) {
     echo "<br>salah";
 }
 
+/*
+    Untuk Ternari dan Switch lihat materi
+    javascriptnya pak Sandika aja di channel
+    WPU Unpas
+*/
 // ternary
 // switch
 ?>
