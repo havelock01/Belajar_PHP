@@ -8,7 +8,7 @@ for ($i = 0; $i < 5; $i++) {
 }
 
 // while
-echo "While Conditonal : <br>";
+echo "<br>While Conditonal : <br>";
 $a = 0;
 while ($a < 5) {
     echo "Hello world! <br>";
@@ -16,10 +16,11 @@ while ($a < 5) {
 }
 
 // do..while
-echo "do...while Condition : <br>";
+echo "<br>do...while Condition : <br>";
 $b = 0;
 do {
     echo "Hello world! <br>";
+    $b++;
 } while ($b < 5);
 
 // foreach : pengulangan khusus array
